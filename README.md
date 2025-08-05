@@ -1,5 +1,4 @@
-[# plan-retiro
-Charla sobre plan de retiro de IA](https://www.youtube.com/live/5hdYU7dng2k
+Charla sobre plan de retiro de IA (https://www.youtube.com/live/5hdYU7dng2k)  
 Nicolas Sibecas
 
 # Plan de Retiro
@@ -80,19 +79,21 @@ A veces se pondera mucho el timing para entrar y salir, pero mucho mas important
 # Calculadora de retiro
 - Da una renta mensual sin morfarte el capital.
 
-[](calc_retiro_1.png)
-[](calc_retiro_2.png)
-[](calc_retiro_3.png)
+![cal_1](calc_retiro_1.png)
+![cal_2](calc_retiro_2.png)
+![cal_3](calc_retiro_3.png)
 
 # Activos Sugeridos
 
-- Opción para escapar del dolar: ETF de Oro, Criptomonedas (bitcoin o ethereum)
+![cal_4](ia_activos_sugeridos.png)
+
+- Opción para escapar del dolar? ETF de Oro, Criptomonedas (bitcoin o ethereum)
 
 # Consejos 
 - Comitente separada
 - Con un cotitular capaz, hijo, lo que sea. Si estoy en coma, que otro pueda operar.
 - Ser agresivo con el ahorro, no tanto con la inversión.
-- Algunas reglas:
+- Regla del 50, 30, 20:
   - 50% gastos fijos
   - 30% Oseo, actividades
   - 20% Ahorro
